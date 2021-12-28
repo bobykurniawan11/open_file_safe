@@ -1,8 +1,12 @@
-.DS_Store
-.dart_tool/
-.idea
-.packages
-.pub/
-pubspec.lock
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
 
-build/
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
